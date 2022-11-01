@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+
+#he
+{
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+    color: aliceblue;
+}
+p{
+    color: white;
+    font-size: medium;
+}
+
+b{
+    color: white;
+    font-size: medium;
+}
+
+h5{
+    color: white;
+    font-size: medium;
+}
+
+h4{
+    color: white;
+    font-size: medium;
+}
